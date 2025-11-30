@@ -1,111 +1,122 @@
-##🛡️ Project README (Safe & Legal)
-##⚠️ FOR EDUCATIONAL & RESEARCH PURPOSES ONLY
+# 🛡️ Cybersecurity Research Client  
+### ⚠️ FOR EDUCATIONAL & RESEARCH PURPOSES ONLY
 
-This repository contains code intended exclusively for cybersecurity research, secure communication studies, and understanding remote administration protocols in controlled environments.
+---
 
-##📘 Overview
+## 🔰 Overview
 
-This project demonstrates concepts related to:
+This repository contains code intended **exclusively for educational, academic, and defensive cybersecurity research**.  
+Its purpose is to help students, analysts, and researchers understand:
 
-Encrypted communication channels
+- Encrypted client–server communication  
+- Secure data transmission techniques  
+- How remote command frameworks operate  
+- How to analyze, detect, and defend against suspicious network behavior  
+- General reverse-engineering and detection engineering concepts  
 
-Client-server interaction
+This project **is not a fully featured tool**, and **must not** be used outside a controlled test environment.
 
-Secure data transmission
+---
 
-Remote command execution frameworks
+## 🎯 Intended Purpose
 
-How defensive tools detect and analyze potentially harmful behavior
+This project may be used for:
 
-The goal is to help students and security researchers better understand:
+- Academic study  
+- Malware analysis training  
+- Learning about encryption (AES-GCM)  
+- Studying client–server communication protocols  
+- Cybersecurity defense and detection research  
+- Controlled lab experiments  
 
-How encrypted protocols work
+**It must ONLY be run in isolated virtual machines or lab environments.**
 
-How threat actors design communication loops
+---
 
-How to analyze, detect, and defend against similar patterns
+## ⚖️ Legal & Ethical Use
 
-This project is not a fully featured tool and must not be used outside of safe, isolated testing environments.
+By using, cloning, or interacting with this repository, you agree to:
 
-##🧪 Intended Use
+- Follow all local, state, federal, and international laws  
+- Use this code only on systems **you own** or **have explicit written permission** to test  
+- Never use it to harm, disrupt, or infiltrate real systems  
+- Restrict usage to **private lab networks, sandboxes, or VMs**  
+- Take full responsibility for your actions  
 
-This code may be used for:
+Misuse of this project can result in:
 
-Academic study
+- Criminal prosecution  
+- Civil liability  
+- Academic/disciplinary action  
+- Permanent bans from professional communities  
 
-Learning about encryption models
+The author(s) **do not support**, **condone**, or **encourage** any illegal or unethical use.
 
-Malware analysis training
+---
 
-Detection engineering practice
+## 📝 Responsible Disclosure
 
-Cybersecurity defense research
+If you use this repository during research and discover a vulnerability in:
 
-Controlled lab exercises
+- A platform  
+- A device  
+- A network  
+- Any third-party system  
 
-It must never be deployed on real systems without explicit permission.
+You must follow responsible disclosure guidelines:
 
-##🔒 Legal & Ethical Use Only
+1. **Do not exploit the vulnerability**  
+2. **Do not disclose exploit code publicly**  
+3. **Notify the affected vendor or administrator privately**  
+4. **Follow established standards like CERT/ISO disclosure policies**  
 
-By using this repository, you agree to:
+This ensures ethical and professional cybersecurity conduct.
 
-Comply with all local, state, and federal laws
+---
 
-Use the code only on systems you own or have explicit written permission to test
-
-Never use it for unauthorized access, disruption, or harm
-
-Restrict use to isolated virtual machines or lab environments
-
-Take full responsibility for your actions
-
-Misuse of this code can result in:
-
-Criminal charges
-
-Civil liabilities
-
-Academic penalties
-
-Permanent bans from professional communities
-
-The author(s) do not condone or support any illegal or unethical use.
-
-##📜 Responsible Disclosure Statement
-
-If you discover any security vulnerability in this repository, or if you use this project during research and uncover vulnerabilities elsewhere:
-
-Do not exploit the issue.
-
-Do not share exploit code publicly.
-
-Contact the appropriate vendor or system owner privately.
-
-Follow established responsible disclosure guidelines (CERT, ISO, etc.).
-
-This encourages safe, ethical research and protects users.
-
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This repository is provided:
 
-“AS IS” with no warranties
+- **“AS IS” with no warranties**  
+- **For educational and defensive purposes only**  
+- **Without guarantee of safety or suitability**  
 
-For educational and defensive purposes only
+The author(s) assume **no liability** for:
 
-Without any guarantee of safety, reliability, or suitability
+- Damages resulting from use or misuse  
+- Violations of law or policy  
+- Unauthorized access, harm, or disruption  
 
-The author(s) assume no responsibility for:
+**You are solely responsible** for complying with laws and ensuring safe, ethical use.
 
-Any damages arising from use or misuse
+---
 
-Any legal or disciplinary outcomes
+## 🤝 Contributing
 
-Any unauthorized or unethical activity involving this code
+Contributions are welcome **as long as they support the educational and defensive intent** of the project.
 
-You are solely responsible for how you use or interact with this project.
+Please do **not** submit:
 
-##🙌 Contributing
+- Malicious payloads  
+- Exploit code  
+- Real-world attack modules  
 
-Contributions are welcome as long as they respect the educational and defensive nature of the project.
-Do not submit code that is explicitly malicious or intended for real-world exploitation.
+All contributions should improve documentation, safety, clarity, or research value.
+
+---
+
+## 📫 Contact
+
+If you have questions regarding:
+
+- Safe usage  
+- Academic applications  
+- Ethical guidelines  
+- Responsible disclosure  
+
+You may open an issue or discussion within the repository.
+
+---
+
+### 🔐 Stay ethical. Stay legal. Research responsibly.
